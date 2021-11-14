@@ -1,7 +1,19 @@
-html {
-  color: #007F7F;
+body {
+  background-color: #007F7F;
 }
 
 h1 {
-  font-color: #ffffff;
+  color: #ffffff;
+  text-align: center;
+  font-size: 20px;
+}
+
+p {
+  font-size: 10px;
+  color: #ffffff;
+}
+
+highlight-p {
+  font-size: 12px;
+  color: #ffff00;
 }
