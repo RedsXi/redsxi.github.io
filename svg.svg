@@ -1,0 +1,18 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="svg_3_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke="#000" stroke-width="0" ry="55" rx="55" id="svg_1" cy="63.97483" cx="64.49028" fill="#CE7975"/>
+  <rect filter="url(#svg_3_blur)" stroke="#000" id="svg_3" height="64" width="16" y="32" x="30" stroke-width="0" fill="#ffffff"/>
+  <rect filter="url(#svg_3_blur)" stroke="#000" id="svg_4" height="64" width="16" y="32" x="84" stroke-width="0" fill="#ffffff"/>
+  <rect stroke="#000" id="svg_5" height="40.15504" width="8" y="55.84496" x="60.64935" stroke-width="0" fill="#ffffff"/>
+  <line stroke-width="0" id="svg_7" y2="66" x2="64.15504" y1="32.27907" x1="29.89147" stroke="#000" fill="none"/>
+  <line stroke-width="0" stroke="#000" id="svg_8" y2="66" x2="64.02516" y1="32.01933" x1="99.83912" fill="none"/>
+  <path transform="rotate(-45 53.0781 47.104)" stroke="#000" id="svg_9" d="m48.86133,30.14571l8.43346,0l0,33.91666l-8.43346,0l0,-33.91666z" stroke-width="0" fill="#ffffff"/>
+  <path transform="rotate(45 76.5846 46.9742)" stroke="#000" id="svg_10" d="m72.36785,30.01584l8.43346,0l0,33.91666l-8.43346,0l0,-33.91666z" opacity="undefined" stroke-width="0" fill="#ffffff"/>
+ </g>
+</svg>
